@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1428369044 source:/home/yandong/桌面/DataSocial/homework-todo/centrality/main.cpp
+	<iostream>
+	<cstring>
+	<math.h>
+	"matrix.h"
+	<fstream>
+	"centrality.h"
+	"mem.h"
+
+1428332492 /home/yandong/桌面/DataSocial/homework-todo/centrality/matrix.h
+
+1428332511 source:/home/yandong/桌面/DataSocial/homework-todo/centrality/matrix.cpp
+	"matrix.h"
+	<cstring>
+	<cmath>
+	<iostream>
+	"mem.h"
+
+1428332534 /home/yandong/桌面/DataSocial/homework-todo/centrality/centrality.h
+
+1428372141 source:/home/yandong/桌面/DataSocial/homework-todo/centrality/centrality.cpp
+	"centrality.h"
+	"matrix.h"
+	<cmath>
+	<iostream>
+	"mem.h"
+	<algorithm>
+	<numeric>
+	<set>
+	<iterator>
+
+1428132765 source:/home/yandong/桌面/DataSocial/homework-todo/centrality/mem.cpp
+	"mem.h"
+
+1428115886 /home/yandong/桌面/DataSocial/homework-todo/centrality/mem.h
+
